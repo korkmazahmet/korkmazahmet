@@ -1,11 +1,11 @@
 <h3 align="center">A passionate javascript developer from Turkey</h3>
 
-👋 Hi i am Ahmet Korkmaz,
-🔭 I’m currently working on learning JavaScript and React.
-👯 I’m looking to collaborate on open-source front-end projects.
-🤝 I’m looking for help with JavaScript and React best pratices.
-🌱 I’m currently learning JavaScript, React and web development.
-💬 How can you reach me ahmettk.125@gmail.com
+👋 Hi i am Ahmet Korkmaz,<br/>
+🔭 I’m currently working on learning JavaScript and React.<br/>
+👯 I’m looking to collaborate on open-source front-end projects.<br/>
+🤝 I’m looking for help with JavaScript and React best pratices.<br/>
+🌱 I’m currently learning JavaScript, React and web development.<br/>
+💬 How can you reach me ahmettk.125@gmail.com<br/>
 
 <p align="left"> <a href="https://twitter.com/korkmazz80" target="blank"><img src="https://img.shields.io/twitter/follow/korkmazz80?logo=twitter&style=for-the-badge" alt="korkmazz80" /></a> </p>
 
